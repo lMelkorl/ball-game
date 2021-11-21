@@ -2,8 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## GamePlay
-
+## GamePlay ▶️
 
 https://user-images.githubusercontent.com/71590619/142767649-5b288491-9f8c-4bd6-831b-9dacbdd9a138.mov
 
