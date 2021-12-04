@@ -2,11 +2,19 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## GamePlay ▶️
+
+https://user-images.githubusercontent.com/71590619/142767649-5b288491-9f8c-4bd6-831b-9dacbdd9a138.mov
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
 
 ### `npm start`
+
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
